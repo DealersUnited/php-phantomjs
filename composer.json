@@ -1,5 +1,5 @@
 {
-    "name": "cocostru/php-phantomjs",
+    "name": "DealersUnited/php-phantomjs",
     "description": "A PHP wrapper for loading pages through PhantomJS - Forked version with critical declaration error fixed",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
